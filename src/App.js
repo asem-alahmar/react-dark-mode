@@ -32,7 +32,6 @@ const App = () => {
       <>
         <Navbar />
         <Header />
-        <Footer />
         <GlobalStyles />
         <div className="App">
           <Toggle theme={theme} toggleTheme={themeToggler} />
@@ -46,6 +45,7 @@ const App = () => {
             );
           })}
         </div>
+        <Footer />
       </>
     </ThemeProvider>
   );

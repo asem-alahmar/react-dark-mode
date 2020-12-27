@@ -3,6 +3,18 @@ import React from "react";
 function Navbar() {
   return (
     <div>
+      <Navbar bg="dark" variant="dark">
+        <Navbar.Brand href="#home">
+          <img
+            alt=""
+            src="https://react-bootstrap.github.io/logo.svg"
+            width="30"
+            height="30"
+            className="d-inline-block align-top"
+          />{" "}
+          React Bootstrap
+        </Navbar.Brand>
+      </Navbar>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container px-4">
           <a className="navbar-brand" href="#">
