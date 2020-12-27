@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[StackBlitz Live ⚡️] (https://react-dark-mode1.vercel.app)  [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-4sipmk)
+[StackBlitz Live ⚡️](https://react-dark-mode1.vercel.app)  [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-4sipmk)
 
 <br>
 <br>
