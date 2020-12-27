@@ -4,7 +4,10 @@ import { useDarkMode } from "./components/useDarkMode";
 import { GlobalStyles } from "./components/Globalstyle";
 import { lightTheme, darkTheme } from "./components/Themes";
 import Toggle from "./components/Toggler";
-import Header from "./components/Header";
+import Header from "./base/Header";
+import Footer from "./base/Footer";
+import Navbar from "./base/Navbar";
+
 import "./App.css";
 import dummyData from "./data";
 import CardList from "./components/CardList";
@@ -27,7 +30,9 @@ const App = () => {
   return (
     <ThemeProvider theme={themeMode}>
       <>
+        <Navbar />
         <Header />
+        <Footer />
         <GlobalStyles />
         <div className="App">
           <Toggle theme={theme} toggleTheme={themeToggler} />
