@@ -33,8 +33,8 @@ const dummyData = [
     channel: "Trend TV",
     items: [
       {
-        id: "92B37aXykYw",
-        image: "https://img.youtube.com/vi/92B37aXykYw/maxresdefault.jpg",
+        id: "Z_2yeDEdxuo",
+        image: "https://img.youtube.com/vi/Z_2yeDEdxuo/maxresdefault.jpg",
         title:
           "Willie Jones STUNS Simon Cowell In Pitch Perfect Performance of 'Your Man'!",
         views: "2.47 million views",
