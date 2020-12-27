@@ -36,7 +36,7 @@ const dummyData = [
         id: "Z_2yeDEdxuo",
         image: "https://img.youtube.com/vi/Z_2yeDEdxuo/maxresdefault.jpg",
         title:
-          "Willie Jones STUNS Simon Cowell In Pitch Perfect Performance of 'Your Man'!",
+          "Fathers Day Gift",
         views: "2.47 million views",
         published: "1 month ago"
       },
