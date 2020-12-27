@@ -4,9 +4,9 @@ import { useDarkMode } from "./components/useDarkMode";
 import { GlobalStyles } from "./components/Globalstyle";
 import { lightTheme, darkTheme } from "./components/Themes";
 import Toggle from "./components/Toggler";
-import Header from "./base/Header";
-import Footer from "./base/Footer";
-import Navbar from "./base/Navbar";
+import Header from "./componentscomponents/Header";
+import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
 
 import "./App.css";
 import dummyData from "./data";
