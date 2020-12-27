@@ -4,8 +4,6 @@ import { useDarkMode } from "./components/useDarkMode";
 import { GlobalStyles } from "./components/Globalstyle";
 import { lightTheme, darkTheme } from "./components/Themes";
 import Toggle from "./components/Toggler";
-import Header from "./components/Header";
-import Navbar from "./components/Navbar";
 
 import "./App.css";
 import dummyData from "./data";
