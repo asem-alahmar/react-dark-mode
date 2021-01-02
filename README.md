@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[StackBlitz Live ⚡️](https://stackblitz.com/edit/react-darklight-theme)      [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-darklight-theme)
+[StackBlitz Live ⚡️](https://react-darklight-theme.stackblitz.io)      [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-darklight-theme)
 
 <br>
 <br>
