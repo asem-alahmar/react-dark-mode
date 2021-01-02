@@ -8,8 +8,5 @@
 <br>
 <br>
 
-[⚡️Live Demo](https://react-dark-mode1.vercel.app) 
+[💻Live Demo](https://react-website-router.vercel.app) 
 
-<br>
-
-💻 Inspired from [This Article](https://www.smashingmagazine.com/2020/04/dark-mode-react-apps-styled-components/)
